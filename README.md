@@ -1,12 +1,14 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I’m passionate about programming and love exploring new technologies. Feel free to ask me **any programming-related questions**! 🚀 
+Welcome to my GitHub profile! I’m passionate about programming and love exploring new technologies. Feel free to ask me **any programming-related questions**! 🚀
 
 ---
 
+<!--
   <video autoplay muted loop>
     <source src="https://res.cloudinary.com/dqp2vi7h1/video/upload/v1735058163/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_fvd17j.mp4" type="video/mp4" />
-  </video>
+  </video> -->
+<img src="https://res.cloudinary.com/dqp2vi7h1/image/upload/v1735061806/NavyBlueGeometricTechnologyLinkedInBanner1-ezgif.com-video-to-gif-converter_ebjd3o.gif" alt="Video Preview" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -91,25 +93,21 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib011110&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
-</p>
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib011110&langs_count=14&theme=blue-green&layout=compact&hide=html" />
-</p>
-<p align="center">
- <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rakib011110&theme=blue-green&hide_border=true&token=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" />
-
-</p>
-
----
-
-## 🌐 Profile Views
-
+ <p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="Rakib011110 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib011110&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="Rakib011110 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib011110&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rakib011110&theme=blue-green&hide_border=true&token=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"> </td>
+     </tr>
+   </table>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rakib011110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
 
 ---
