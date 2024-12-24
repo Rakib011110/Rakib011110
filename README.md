@@ -1,24 +1,41 @@
-
 # Hi there 👋
 
 Welcome to my GitHub profile! I’m passionate about programming and love exploring new technologies. Feel free to ask me **any programming-related questions**! 🚀
 
-<!--
-**Rakib011110/Rakib011110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+  <video autoplay muted loop>
+    <source src="https://res.cloudinary.com/dqp2vi7h1/video/upload/v1735058163/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_fvd17j.mp4" type="video/mp4" />
+  </video>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
 
+Hi! I'm Rakib, a passionate software developer specializing in front-end and full-stack development. I love working with technologies like React, Next.js, and TypeScript to create amazing user experiences. When I'm not coding, you can find me exploring new tools, reading about tech trends, or experimenting with design tools like Figma.
 
+- 🌟 I enjoy solving real-world problems through programming.
+- 📚 I'm currently learning advanced TypeScript and serverless architecture.
+- ⚡ Fun fact: I started coding at the age of 15!
+
+## 🌐 Connect With Me
+
+<p align="left">
+ 
+  <a href="https://twitter.com/@_Ariyan_Rakib_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/Rakib011110" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rakib088880@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/ariyan.rakib890/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="Facebook" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
@@ -83,7 +100,8 @@ Here are some ideas to get you started:
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib011110&langs_count=14&theme=blue-green&layout=compact&hide=html" />
 </p>
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rakib011110&theme=blue-green&hide_border=true" />
+ <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rakib011110&theme=blue-green&hide_border=true&token=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" />
+
 </p>
 
 ---
