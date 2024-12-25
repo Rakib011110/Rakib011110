@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I’m passionate about programming and love explor
 <img src="https://res.cloudinary.com/dqp2vi7h1/image/upload/v1735061806/NavyBlueGeometricTechnologyLinkedInBanner1-ezgif.com-video-to-gif-converter_ebjd3o.gif" alt="Video Preview" width="100%" />
 
 ## 👨‍💻 About Me
-
 Hi! I'm Rakib, a passionate software developer specializing in front-end and full-stack development. I love working with technologies like React, Next.js, and TypeScript to create amazing user experiences. When I'm not coding, you can find me exploring new tools, reading about tech trends, or experimenting with design tools like Figma.
 
 - 🌟 I enjoy solving real-world problems through programming.
@@ -25,14 +24,25 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
   <a href="https://twitter.com/@_Ariyan_Rakib_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  
+  <a href="https://github.com/Rakib011110" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rakib088880@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/ariyan.rakib890/" target="_blank" rel="noreferrer">
+    <img src="https://clinmedjournals.org/articles/blogs/img/facebook-login.jpg" alt="Facebook" width="" height="30" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Technologies I Work With 
 
-<p color="" align="left">
+<p  align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
@@ -97,4 +107,4 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
 
 ---
 
----
+
