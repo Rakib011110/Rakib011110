@@ -4,10 +4,7 @@ Welcome to my GitHub profile! I’m passionate about programming and love explor
 
 ---
 
-<!--
-  <video autoplay muted loop>
-    <source src="https://res.cloudinary.com/dqp2vi7h1/video/upload/v1735058163/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_fvd17j.mp4" type="video/mp4" />
-  </video> -->
+
 <img src="https://res.cloudinary.com/dqp2vi7h1/image/upload/v1735061806/NavyBlueGeometricTechnologyLinkedInBanner1-ezgif.com-video-to-gif-converter_ebjd3o.gif" alt="Video Preview" width="100%" />
 
 ## 👨‍💻 About Me
