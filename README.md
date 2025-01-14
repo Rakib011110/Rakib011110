@@ -89,18 +89,20 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
 
  <p align="center">
    <table>
-   <h1 align="center">Github Stats</h1>
+   <h1 align="center">GitHub Stats</h1>
        <tr>
-       <td><img alt="Rakib011110 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib011110&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="Rakib011110 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib011110&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rakib011110&theme=blue-green&hide_border=true&token=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"> </td>
-     </tr>
+           <td><img alt="Rakib011110 :: Profile Stats" src="https://your-username.vercel.app/api?username=Rakib011110&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
+           <td><img alt="Rakib011110 :: Top Langs" src="https://your-username.vercel.app/api/top-langs/?username=Rakib011110&langs_count=14&theme=blue-green&layout=compact&hide=html" /></td>
+       </tr>
+       <tr>
+           <td colspan="2" align="center"><img align="center" src="https://your-username.vercel.app?user=Rakib011110&theme=blue-green&hide_border=true" /></td>
+       </tr>
    </table>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rakib011110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=Rakib011110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ---
 
