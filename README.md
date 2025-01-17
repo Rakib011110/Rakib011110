@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I’m passionate about programming and love exploring new technologies. Feel free to ask me **any programming-related questions**! 🚀
 
-----------
+---------- --
+
 
 
 <img src="https://res.cloudinary.com/dqp2vi7h1/image/upload/v1735061806/NavyBlueGeometricTechnologyLinkedInBanner1-ezgif.com-video-to-gif-converter_ebjd3o.gif" alt="Video Preview" width="100%" />
