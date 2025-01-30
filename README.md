@@ -87,27 +87,7 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
 
 -------------
    
-## 🖥️ Tech Stacks
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typeScript&logoColor=3178C6)
-![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-764abc.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![NextUI](https://img.shields.io/badge/nextui-000000.svg?style=for-the-badge&logo=nextui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%2320232a?style=for-the-badge&logo=Firebase&logoColor=DD2C00)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=Netlify&logoColor=00C7B7)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 
 <p align="center">
    <table>
