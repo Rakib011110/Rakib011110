@@ -40,51 +40,27 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
 
 ## 🛠️ Technologies I Work With 
 
-<p  align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-  <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a> 
-   <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-
-</p>
+<div align="center" style="max-width: 450px; margin: auto; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; border: 1px solid; background-color: white; padding: 20px; border-radius: 5px;">
+  <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
+  <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript">
+  <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
+  <img alt="Redux" title="Redux" height="48" width="48" src="https://cdn.simpleicons.org/redux">
+  <img alt="Next.js" title="Next.js" height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs">
+  <img alt="Express" title="Express" height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs">
+  <img alt="Express" title="Express" height="48" width="48" src="https://cdn.simpleicons.org/express">
+  <img alt="Mongodb" title="Mongodb" height="48" width="48" src="https://cdn.simpleicons.org/mongodb">
+  <img alt="Mongoose" title="Mongoose" height="48" width="48" src="https://cdn.simpleicons.org/mongoose">
+  <img alt="Prisma" title="Prisma" height="48" width="48" src="https://cdn.simpleicons.org/prisma">
+  <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.simpleicons.org/postgresql">
+  <img alt="Tailwind" title="Tailwind" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
+  <img alt="NextUI" title="NextUI" height="48" width="48" src="https://cdn.simpleicons.org/nextui">
+  <img alt="ShadcnUI" title="ShadcnUI" height="48" width="48" src="https://cdn.simpleicons.org/shadcnui">
+  <img alt="DaisyUI" title="DaisyUI" height="48" width="48" src="https://cdn.simpleicons.org/daisyui">
+  <img alt="Postman" title="Postman" height="48" width="48" src="https://cdn.simpleicons.org/postman">
+  <img alt="Firebase" title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase">
+  <img alt="Supabase" title="Supabase" height="48" width="48" src="https://cdn.simpleicons.org/supabase">
+  <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel">
+</div>
 
 ---
 
