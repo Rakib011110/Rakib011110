@@ -62,7 +62,7 @@ Hi! I'm Rakib, a passionate software developer specializing in front-end and ful
   <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel">
 </div>
 
----
+
 
 <p align="center">
    <table>
